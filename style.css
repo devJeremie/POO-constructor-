@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.table{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    background-color: aquamarine;
+}
+.velo{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.cadre{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(247, 223, 193);
+    border: 2px solid greenyellow;
+    margin-left: 25px;
+    text-align: center;
+}
